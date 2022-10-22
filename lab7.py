@@ -15,3 +15,4 @@ print(fddgfddggfdf) # абракадабра
 
 print(2+2) #rfdkgfdmgdfkgdfgfmg dfkgf
 
+print(2+2)
